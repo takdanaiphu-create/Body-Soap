@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sakura-soap-bar-70g",
+    "name": "สบู่ก้อน Sakura",
+    "mood": "Sakura",
+    "type": "Soap bar",
+    "size": "70g",
+    "price": 49,
+    "image": "images/Sakura.jpg",
+    "description": "สบู่ก้อนขนาดเล็กกลิ่น Sakura หอมละมุนอ่อนโยน พกพาสะดวก ให้ผิวสะอาดนุ่มและมีกลิ่นหอมติดผิวบางเบา"
+  },
+  {
+    "id": "rose-liquid-soap-750ml",
+    "name": "สบู่เหลว Rose",
+    "mood": "Rose",
+    "type": "Liquid soap",
+    "size": "750ml",
+    "price": 199,
+    "image": "images/Rose.jpg",
+    "description": "สบู่เหลวขนาดใหญ่กลิ่น Rose หอมหรูหราอบอุ่น ฟองนุ่มละเอียด ช่วยให้ผิวชุ่มชื้นและมีกลิ่นกุหลาบหอมนวลตลอดวัน"
+  }
+]
